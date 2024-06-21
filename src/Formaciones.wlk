@@ -1,4 +1,4 @@
-import vagones.*
+import Vagones.*
 
 class Formacion {
 	const property vagones = []
